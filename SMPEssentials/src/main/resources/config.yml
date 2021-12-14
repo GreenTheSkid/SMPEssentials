@@ -1,0 +1,11 @@
+# Enter a player's ign into the "" to add them to the Op whitelist!
+oplist: ["GreenV1"]
+opkickmessage: "You shouldn't have op!"
+# DO NOT change the below values unless you know what you are doing.
+spawncoords:
+  world: world
+  x:
+  y:
+  z:
+# Enter a no permission error message here
+noperms: "&cYou don't have permission to use this command!"

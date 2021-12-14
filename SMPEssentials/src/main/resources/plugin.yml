@@ -1,0 +1,30 @@
+name: SMPEssentials
+version: '${project.version}'
+main: com.green.smpessentials.smpessentials.smpessentials.SMPEssentials
+api-version: 1.18
+authors: [ Green ]
+commands:
+  setspawn:
+    usage: /<command>
+    description: Sets the server spawn point
+  spawn:
+    usage: /<command>
+    description: Teleports you to the server spawn point
+  gmc:
+    usage: /<command>
+    description: sets gamemode to Creative
+  gms:
+    usage: /<command>
+    description: sets gamemode to Survival
+  gmsp:
+    usage: /<command>
+    description: sets gamemode to Spectator
+  gma:
+    usage: /<command>
+    description: sets gamemode to Adventure
+  heal:
+    usage: /<command>
+    description: Heals targeted player
+  feed:
+    usage: /<command>
+    description: Feeds targeted player
